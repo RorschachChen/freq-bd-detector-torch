@@ -1,4 +1,3 @@
-# freq-bd-detector-torch
 # Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective
 This is the unofficial pytorch implementation of the ICCV paper: 'Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective .' 
 
